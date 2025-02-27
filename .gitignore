@@ -1,0 +1,20 @@
+# Ignore Visual Studio & build files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.log
+
+# Ignore user secrets
+appsettings.json
+appsettings.Development.json
+
+# Ignore IDE configurations
+.idea/
+*.iml
+
+# Ignore other unnecessary files
+*.tmp
+*.cache
