@@ -1,0 +1,7 @@
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\2.Uzdevums_Anonimas_funkcijas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

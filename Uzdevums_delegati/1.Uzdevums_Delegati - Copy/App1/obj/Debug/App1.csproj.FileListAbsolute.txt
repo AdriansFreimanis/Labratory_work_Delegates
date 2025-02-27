@@ -1,0 +1,21 @@
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\bin\Debug\App1.exe.config
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\bin\Debug\App1.exe
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\bin\Debug\App1.pdb
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\obj\Debug\App1.exe
+C:\Users\adria\Desktop\Programmesanas_tehnologijas\App1\App1\obj\Debug\App1.pdb
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\bin\Debug\App1.exe.config
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\bin\Debug\App1.exe
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\bin\Debug\App1.pdb
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\obj\Debug\App1.exe
+C:\Users\adria\Desktop\Program_tehnologijas\App1\App1\obj\Debug\App1.pdb
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\bin\Debug\App1.exe.config
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\bin\Debug\App1.exe
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\bin\Debug\App1.pdb
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\obj\Debug\App1.exe
+C:\Users\adria\Desktop\Program_tehnologijas\1.Laboratorijas darbs\1.Uzdevums_Delegati\App1\obj\Debug\App1.pdb
